@@ -40,7 +40,7 @@ import setuptools
 
 setuptools.setup(
     name = "mfrc522",
-    version = "0.0.1",
+    version = "0.0.2",
 
     description = "Simple fake MFRC522 library for rapid software development and testing",
     long_description = description,
